@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Church-Mgt-System/.idea/Church-Mgt-System.iml" filepath="$PROJECT_DIR$/../Church-Mgt-System/.idea/Church-Mgt-System.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/django/crm/.idea/crm.iml" filepath="$USER_HOME$/PycharmProjects/django/crm/.idea/crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/drf_course.iml" filepath="$PROJECT_DIR$/.idea/drf_course.iml" />
+    </modules>
+  </component>
+</project>
